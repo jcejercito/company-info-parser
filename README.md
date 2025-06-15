@@ -1,6 +1,6 @@
 # Company Info Parser
 
-A Python-based tool for parsing, processing, and analyzing company information from Excel and JSON files. This project is designed to extract, transform, and organize company data for further analysis or reporting.
+A Python-based tool for parsing, processing, and analyzing company information from the FirmenDB website, a database of registered companies around Germany and Austria. This project is designed to extract, transform, and organize company data for further analysis or reporting.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ A Python-based tool for parsing, processing, and analyzing company information f
 
 ## Features
 
-- Parses company information from Excel files (`CompanyInfo.xlsx`)
+- Writes parsed company information to Excel files (`CompanyInfo.xlsx`)
 - Processes and aggregates data from multiple JSON files (in `backup/`)
 - Saves processed links and data in `savedlinks/`
 - Error logging via `crash-log.txt`
@@ -27,7 +27,7 @@ A Python-based tool for parsing, processing, and analyzing company information f
 ## Program Flow
 
 1. **Initialization**  
-   The program starts by setting up required modules, reading the main Excel file (`CompanyInfo.xlsx`), and preparing logging for errors.
+   The program starts by setting up required modules and preparing logging for errors.
 
 2. **Region and City Traversal**  
    - The parser visits each region and city, either by reading from the web or from cached data.
@@ -40,7 +40,7 @@ A Python-based tool for parsing, processing, and analyzing company information f
 
 4. **Company Data Extraction**  
    - For each company found, the parser extracts details such as name, address, telephone, fax, email, and website.
-   - Data is temporarily stored in memory and then appended to the main Excel file.
+   - Data is temporarily stored in memory and then appended to the main Excel file (`CompanyInfo.xlsx`).
 
 5. **Error Handling**  
    - Any errors encountered during parsing or network requests are logged to [`crash-log.txt`](crash-log.txt).
@@ -53,7 +53,7 @@ A Python-based tool for parsing, processing, and analyzing company information f
 ---
 
 **Note:**  
-The caching system ensures that if the script is interrupted or encounters an error, you can safely rerun it without losing progress or duplicating work. This is especially useful for large datasets or unstable network conditions.
+The program does **not** read from `CompanyInfo.xlsx`; it only writes new data to this file. All input data is sourced from JSON files in the `backup/` directory or from web scraping.
 
 ## Project Structure
 
@@ -95,7 +95,6 @@ The caching system ensures that if the script is interrupted or encounters an er
 ## Usage
 
 1. **Prepare your input files:**
-   - Place your main Excel file as `CompanyInfo.xlsx` in the project root.
    - Ensure all relevant JSON files are in the `backup/` directory.
 
 2. **Run the parser:**
@@ -104,16 +103,17 @@ The caching system ensures that if the script is interrupted or encounters an er
    ```
 
 3. **Check outputs:**
-   - Processed data and links will be saved in the `savedlinks/` directory.
+   - Processed data will be saved in the `CompanyInfo.xlsx` file.
+   - Processed links and cache will be saved in the `savedlinks/` directory.
    - Any errors will be logged in `crash-log.txt`.
 
 ## Input/Output
 
 - **Input:**
-  - `CompanyInfo.xlsx`: Excel file with company information (columns: TODO: describe columns)
   - `backup/*.json`: JSON files for each company/location (structure: TODO: describe structure)
 
 - **Output:**
+  - Processed company data in `CompanyInfo.xlsx`
   - Processed data files in `savedlinks/`
   - Error logs in `crash-log.txt`
 
