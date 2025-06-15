@@ -1,0 +1,6 @@
+ERROR:root:main crashed. Error: 'Berlin'
+Traceback (most recent call last):
+  File "c:\Users\origa\Desktop\Fiverr Projects\Coding\tylor_wallace\MainParser.py", line 370, in <module>
+    urls = data[city]
+           ~~~~^^^^^^
+KeyError: 'Berlin'

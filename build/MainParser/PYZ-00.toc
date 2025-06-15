@@ -1,0 +1,4302 @@
+('C:\\Users\\origa\\Desktop\\Fiverr '
+ 'Projects\\Coding\\tylor_wallace\\build\\MainParser\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('aiolimiter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\aiolimiter\\__init__.py',
+   'PYMODULE'),
+  ('aiolimiter.compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\aiolimiter\\compat.py',
+   'PYMODULE'),
+  ('aiolimiter.leakybucket',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\aiolimiter\\leakybucket.py',
+   'PYMODULE'),
+  ('anyio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends._asyncio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'PYMODULE'),
+  ('anyio._backends._trio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'PYMODULE'),
+  ('anyio._core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('anyio._core._eventloop',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio._core._exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('anyio._core._fileio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'PYMODULE'),
+  ('anyio._core._resources',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
+   'PYMODULE'),
+  ('anyio._core._signals',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
+   'PYMODULE'),
+  ('anyio._core._sockets',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'PYMODULE'),
+  ('anyio._core._streams',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
+   'PYMODULE'),
+  ('anyio._core._subprocesses',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio._core._synchronization',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'PYMODULE'),
+  ('anyio._core._tasks',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'PYMODULE'),
+  ('anyio._core._testing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
+   'PYMODULE'),
+  ('anyio._core._typedattr',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'PYMODULE'),
+  ('anyio.abc',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
+   'PYMODULE'),
+  ('anyio.abc._eventloop',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.abc._resources',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
+   'PYMODULE'),
+  ('anyio.abc._sockets',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.abc._streams',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
+   'PYMODULE'),
+  ('anyio.abc._subprocesses',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio.abc._tasks',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'PYMODULE'),
+  ('anyio.abc._testing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
+   'PYMODULE'),
+  ('anyio.from_thread',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\from_thread.py',
+   'PYMODULE'),
+  ('anyio.lowlevel',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\lowlevel.py',
+   'PYMODULE'),
+  ('anyio.streams',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
+   'PYMODULE'),
+  ('anyio.streams.memory',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
+   'PYMODULE'),
+  ('anyio.streams.stapled',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
+   'PYMODULE'),
+  ('anyio.streams.tls',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
+   'PYMODULE'),
+  ('anyio.to_thread',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\anyio\\to_thread.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('h11',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._events',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._state',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('httpcore',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_api.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async.interfaces',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._async.socks_proxy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.anyio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._backends.mock',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._models',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_models.py',
+   'PYMODULE'),
+  ('httpcore._ssl',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_ssl.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync.interfaces',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._sync.socks_proxy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._synchronization',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_synchronization.py',
+   'PYMODULE'),
+  ('httpcore._trace',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_trace.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpx',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('httpx._compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_compat.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('httpx._content',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_content.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._main',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_main.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._multipart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_multipart.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('httpx._transports.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_transports\\base.py',
+   'PYMODULE'),
+  ('httpx._transports.default',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_transports\\default.py',
+   'PYMODULE'),
+  ('httpx._transports.mock',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_transports\\mock.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._urlparse',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_urlparse.py',
+   'PYMODULE'),
+  ('httpx._urls',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_urls.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.rich_text',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\cell\\rich_text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.custom',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.formula',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\formula.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.print_settings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pickletools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('sniffio',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\sniffio\\__init__.py',
+   'PYMODULE'),
+  ('sniffio._impl',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\sniffio\\_impl.py',
+   'PYMODULE'),
+  ('sniffio._version',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\sniffio\\_version.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xlsxwriter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\__init__.py',
+   'PYMODULE'),
+  ('xlsxwriter.app',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\app.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_area',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_area.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_bar',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_bar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_column',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_column.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_doughnut',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_doughnut.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_line',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_line.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_pie',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_pie.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_radar',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_radar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_scatter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_scatter.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_stock',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chart_stock.py',
+   'PYMODULE'),
+  ('xlsxwriter.chartsheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\chartsheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.comments',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\comments.py',
+   'PYMODULE'),
+  ('xlsxwriter.contenttypes',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\contenttypes.py',
+   'PYMODULE'),
+  ('xlsxwriter.core',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\core.py',
+   'PYMODULE'),
+  ('xlsxwriter.custom',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\custom.py',
+   'PYMODULE'),
+  ('xlsxwriter.drawing',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\drawing.py',
+   'PYMODULE'),
+  ('xlsxwriter.exceptions',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\exceptions.py',
+   'PYMODULE'),
+  ('xlsxwriter.format',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\format.py',
+   'PYMODULE'),
+  ('xlsxwriter.metadata',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\metadata.py',
+   'PYMODULE'),
+  ('xlsxwriter.packager',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\packager.py',
+   'PYMODULE'),
+  ('xlsxwriter.relationships',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\relationships.py',
+   'PYMODULE'),
+  ('xlsxwriter.shape',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\shape.py',
+   'PYMODULE'),
+  ('xlsxwriter.sharedstrings',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\sharedstrings.py',
+   'PYMODULE'),
+  ('xlsxwriter.styles',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\styles.py',
+   'PYMODULE'),
+  ('xlsxwriter.table',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\table.py',
+   'PYMODULE'),
+  ('xlsxwriter.theme',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\theme.py',
+   'PYMODULE'),
+  ('xlsxwriter.utility',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\utility.py',
+   'PYMODULE'),
+  ('xlsxwriter.vml',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\vml.py',
+   'PYMODULE'),
+  ('xlsxwriter.workbook',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\workbook.py',
+   'PYMODULE'),
+  ('xlsxwriter.worksheet',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\worksheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.xmlwriter',
+   'c:\\Users\\origa\\Desktop\\Fiverr '
+   'Projects\\Coding\\tylor_wallace\\.venv\\Lib\\site-packages\\xlsxwriter\\xmlwriter.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.496.0_x64__qbz5n2kfra8p0\\Lib\\zipimport.py',
+   'PYMODULE')])
