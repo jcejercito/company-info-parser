@@ -5,6 +5,7 @@ A Python-based tool for parsing, processing, and analyzing company information f
 ## Table of Contents
 
 - [Features](#features)
+- [Program Flow](#program-flow)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,7 +14,6 @@ A Python-based tool for parsing, processing, and analyzing company information f
 - [Dependencies](#dependencies)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
-- [Program Flow](#program-flow)
 - [Contact](#contact)
 
 ## Features
@@ -23,6 +23,37 @@ A Python-based tool for parsing, processing, and analyzing company information f
 - Saves processed links and data in `savedlinks/`
 - Error logging via `crash-log.txt`
 - Easily extensible for new data sources or formats
+
+## Program Flow
+
+1. **Initialization**  
+   The program starts by setting up required modules, reading the main Excel file (`CompanyInfo.xlsx`), and preparing logging for errors.
+
+2. **Region and City Traversal**  
+   - The parser visits each region and city, either by reading from the web or from cached data.
+   - For each city, it attempts to gather company information, handling pagination as needed.
+
+3. **Caching Mechanism**  
+   - To improve efficiency and support resuming interrupted sessions, the parser uses a caching system.
+   - After processing a city or region, progress and collected data are saved as JSON files in the [`savedlinks/`](savedlinks/) directory.
+   - If the program is restarted, it can pick up from the last saved state using these cache files, reducing redundant network requests.
+
+4. **Company Data Extraction**  
+   - For each company found, the parser extracts details such as name, address, telephone, fax, email, and website.
+   - Data is temporarily stored in memory and then appended to the main Excel file.
+
+5. **Error Handling**  
+   - Any errors encountered during parsing or network requests are logged to [`crash-log.txt`](crash-log.txt).
+   - The program is designed to retry on certain connection errors and to log tracebacks for unexpected issues.
+
+6. **Output**  
+   - Processed company data is appended to [`CompanyInfo.xlsx`](CompanyInfo.xlsx).
+   - Cached progress and company links are stored in [`savedlinks/`](savedlinks/).
+
+---
+
+**Note:**  
+The caching system ensures that if the script is interrupted or encounters an error, you can safely rerun it without losing progress or duplicating work. This is especially useful for large datasets or unstable network conditions.
 
 ## Project Structure
 
@@ -112,34 +143,3 @@ Or use your preferred test runner.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Program Flow
-
-1. **Initialization**  
-   The program starts by setting up required modules, reading the main Excel file (`CompanyInfo.xlsx`), and preparing logging for errors.
-
-2. **Region and City Traversal**  
-   - The parser visits each region and city, either by reading from the web or from cached data.
-   - For each city, it attempts to gather company information, handling pagination as needed.
-
-3. **Caching Mechanism**  
-   - To improve efficiency and support resuming interrupted sessions, the parser uses a caching system.
-   - After processing a city or region, progress and collected data are saved as JSON files in the [`savedlinks/`](savedlinks/) directory.
-   - If the program is restarted, it can pick up from the last saved state using these cache files, reducing redundant network requests.
-
-4. **Company Data Extraction**  
-   - For each company found, the parser extracts details such as name, address, telephone, fax, email, and website.
-   - Data is temporarily stored in memory and then appended to the main Excel file.
-
-5. **Error Handling**  
-   - Any errors encountered during parsing or network requests are logged to [`crash-log.txt`](crash-log.txt).
-   - The program is designed to retry on certain connection errors and to log tracebacks for unexpected issues.
-
-6. **Output**  
-   - Processed company data is appended to [`CompanyInfo.xlsx`](CompanyInfo.xlsx).
-   - Cached progress and company links are stored in [`savedlinks/`](savedlinks/).
-
----
-
-**Note:**  
-The caching system ensures that if the script is interrupted or encounters an error, you can safely rerun it without losing progress or duplicating work. This is especially useful for large datasets or unstable network conditions.
